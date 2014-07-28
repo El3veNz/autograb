@@ -27,8 +27,8 @@ Grab.check = function(e)
 };
 Grab.welcome = function()
 {
-  API.chatLog("Autograb by @Chuck_Noxis enabled!",true);
-  API.chatLog("Created for http://plug.dj/noxis Room !", true);
+  API.chatLog("Autograb by @El3veN enabled!",true);
+  API.chatLog("Created for you !", true);
 };
 
 Grab.grab = function()
