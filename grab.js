@@ -27,8 +27,8 @@ Grab.check = function(e)
 };
 Grab.welcome = function()
 {
-  API.chatLog("Autograb par Chuck activé !",true);
-  API.chatLog("Crée pour @AutoGrab", true);
+  API.chatLog("Autograb par ChuckNoxis activé !",true);
+  API.chatLog("Crée pour @", true);
 };
 
 Grab.grab = function()
