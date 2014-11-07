@@ -1,4 +1,4 @@
-autograb
+Script Out Of Date !
 ========
 
 Script a ajouter aux favoris:
@@ -8,6 +8,4 @@ javascript:(function(){$.getScript('https://raw.githubusercontent.com/El3veNz/au
 
 ========
 
-Comment ajouter un script aux favoris ? Lis ceci: 
 
-SOON
